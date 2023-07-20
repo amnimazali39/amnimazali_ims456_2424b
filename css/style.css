@@ -1,0 +1,224 @@
+body
+    {background-color:antiquewhite
+
+    }
+
+h1
+    {
+        color: black;
+        font-size: 40pt;
+        text-align: center;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+    }
+
+a
+{
+    font-size: 20pt;
+    padding-right: 6%;
+    text-decoration:dotted;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(9, 7, 6);
+    font-weight: 600;
+}
+
+a:hover
+    {
+        color: dimgrey;
+        background-color: rgb(242, 218, 222);
+    }
+
+
+.logo
+    {
+        width: 100%;
+        height: 50px;
+        float: left;
+    }
+
+
+.menu
+    {
+        width: 75%;
+        height: 50px;
+        background-color: purple;
+        float: left;
+
+    }
+
+.slider
+    {
+        width: 100%;
+        height: 500px;
+        background-color: rgb(26, 134, 153);
+        float: left;
+    }
+
+.box1
+    {
+        width: 25%;
+        height: 200px;
+        background-color: rgb(153, 102, 26);
+        float: left;
+
+    }
+
+    
+.box2
+    {
+        width: 25%;
+        height: 200px;
+        background-color: rgb(62, 84, 182);
+        float: left;
+    
+    }
+
+.box3
+    {
+        width: 25%;
+        height: 200px;
+        background-color: rgb(26, 134, 153);
+        float: left;
+
+    }
+
+.box4
+    {
+        width: 25%;
+        height: 200px;
+        background-color: rgb(58, 140, 179);
+        float: left;
+
+    }
+
+.section1
+    {
+        width: 50%;
+        height: 250px;
+        background-color: rgb(83, 85, 179);
+        float: left;
+    }
+
+.section2
+    {
+        width: 50%;
+        height: 250px;
+        background-color: rgb(26, 153, 64);
+        float: left;
+    }
+
+table, tr, td, th
+    {
+        border:3px solid rgb(112, 112, 113);
+        border-collapse: collapse;
+        margin: auto;
+    }   
+
+td
+    {
+    padding:15px  
+    }   
+
+th
+    {
+        background-color: rgb(247, 229, 240);
+        color:black;
+    }
+
+tr  
+    {
+        background-color:rgb(90, 188, 205);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+tr:nth-child(odd)
+    {
+        background-color: rgb(174, 226, 209);
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    }
+
+tr:hover
+    {
+        background-color: antiquewhite;
+    }
+h3
+    {
+        color: black;
+        text-align: center;
+        font-size: 20px;
+        font-weight: lighter;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+h2
+    {   
+        color: black;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+.experience
+{
+    margin: auto;
+    width: 510px;
+    height: 549px;
+    border: 0;
+    padding: 13px;
+    background-color: rgba(221, 247, 170, 0.841);
+    text-align: center;
+    text-decoration: double;
+    font-size: larger;
+}
+
+p
+{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Experience details styles */
+.company {
+    font-size: 30px;
+    color: rgb(177, 24, 24);
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+
+.job-title {
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: 0px
+}
+
+.duration {
+    font-size: 16px;
+    color: #b80909;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}    
+
+.description {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    font-weight: 700;
+    color: #161114;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.theend
+    {
+      color:rgb(7, 5, 5);
+          text-align: center; 
+          font-style:oblique;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    }
